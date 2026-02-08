@@ -8,7 +8,7 @@
 | 2 | vibe-compiler | https://github.com/Strawberry-Computer/vibe-compiler | ✅ |
 | 3 | Agent of Empires | https://github.com/njbrake/agent-of-empires | ✅ |
 | 4 | Vanna | https://github.com/vanna-ai/vanna | ✅ |
-| 5 | Remote Code | https://remote-code.com/ | ⏳ |
+| 5 | Remote Code | https://remote-code.com/ | ✅ |
 
 ---
 
