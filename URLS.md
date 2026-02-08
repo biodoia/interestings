@@ -27,3 +27,4 @@
 | 14 | smol developer | https://github.com/smol-ai/developer | ⏳ |
 | 15 | CompilerBrain | https://github.com/Cysharp/CompilerBrain | ⏳ |
 | 16 | VibEx-CLI | https://github.com/Gymnott1/VibeEx-CLI | ⏳ |
+| 17 | VibeSafe | https://github.com/slowcoder360/vibesafe | ⏳ |
