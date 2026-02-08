@@ -24,3 +24,4 @@
 | 11 | MyCoder | https://github.com/drivecore/mycoder | ⏳ |
 | 12 | AIAssist | https://github.com/mehdihadeli/AIAssist | ⏳ |
 | 13 | gpt-engineer | https://github.com/AntonOsika/gpt-engineer | ⏳ |
+| 14 | smol developer | https://github.com/smol-ai/developer | ⏳ |
