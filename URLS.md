@@ -25,3 +25,4 @@
 | 12 | AIAssist | https://github.com/mehdihadeli/AIAssist | ⏳ |
 | 13 | gpt-engineer | https://github.com/AntonOsika/gpt-engineer | ⏳ |
 | 14 | smol developer | https://github.com/smol-ai/developer | ⏳ |
+| 15 | CompilerBrain | https://github.com/Cysharp/CompilerBrain | ⏳ |
