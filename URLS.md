@@ -19,3 +19,4 @@
 | 6 | Entelligence CLI | https://entelligence.ai/cli | ⏳ |
 | 7 | Rulebook-AI | https://github.com/botingw/rulebook-ai | ⏳ |
 | 8 | AIChat | https://github.com/sigoden/aichat | ⏳ |
+| 9 | Cloi | https://github.com/gabrielchasukjin/cloi | ⏳ |
