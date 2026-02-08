@@ -44,3 +44,43 @@ AI Environment Manager — definisci rules/context/tools una volta, deploya su t
 - Sync automatico a formati diversi
 - Memory bank persistente
 - Profile switching
+
+---
+
+## Pack Developer Guide (Appendice)
+
+### Struttura Pack
+```
+my-pack/
+├── manifest.yaml           # name, version, summary (REQUIRED)
+├── README.md               # description (REQUIRED)
+├── rules/                  # (REQUIRED)
+│   ├── 01-rules/           # general rules
+│   │   ├── 00-meta.md
+│   │   └── 01-principles.md
+│   ├── 02-rules-architect/ # mode-specific
+│   └── 03-rules-code/
+├── memory_starters/        # (optional) → user memory/
+└── tool_starters/          # (optional) → user tools/
+```
+
+### manifest.yaml
+```yaml
+name: My-Awesome-Pack    # unique slug [A-Za-z0-9-]
+version: 1.0.0           # semver
+summary: One-sentence description
+```
+
+### Sync Logic per Assistant Type
+1. **Mode-Based** (Roo Code, Kilo): `01-rules/` → `.roo/rules/`, `02-rules-code/` → `.roo/rules-code/`
+2. **Multi-File** (Cursor, Cline): all files → `.cursor/rules/` con prefix incrementale
+3. **Single-File** (Copilot, Gemini, Warp): concatena tutto in un file
+
+### Validation
+```bash
+rulebook-ai packs add local:./my-pack  # test locale
+rulebook-ai packs remove my-pack       # cleanup
+```
+
+### Pattern: pack-authoring-guide
+Meta-pack che aiuta a creare altri packs usando AI!
