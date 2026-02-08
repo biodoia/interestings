@@ -17,3 +17,4 @@
 (nuovi URL qui)
 
 | 6 | Entelligence CLI | https://entelligence.ai/cli | ⏳ |
+| 7 | Rulebook-AI | https://github.com/botingw/rulebook-ai | ⏳ |
