@@ -22,3 +22,4 @@
 | 9 | Cloi | https://github.com/gabrielchasukjin/cloi | ⏳ |
 | 10 | Codai | https://github.com/meysamhadeli/codai | ⏳ |
 | 11 | MyCoder | https://github.com/drivecore/mycoder | ⏳ |
+| 12 | AIAssist | https://github.com/mehdihadeli/AIAssist | ⏳ |
