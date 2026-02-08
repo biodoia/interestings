@@ -122,16 +122,16 @@ Reddit discussions report significant improvements:
 - https://www.reddit.com/r/ClaudeAI/comments/1lfsdll/try_out_serena_mcp_thank_me_later/
 - https://www.reddit.com/r/ClaudeCode/comments/1mguoia/absolutely_insane_improvement_of_claude_code/
 
-## Key Insight for CodyGody
+## Key Patterns
 
-Serena demonstrates that **semantic code understanding via LSP** is the next evolution for coding agents. Key patterns to adopt:
+Serena demonstrates that **semantic code understanding via LSP** is the next evolution for coding agents:
 
 1. **Symbol-centric operations** instead of text-based
 2. **Language server integration** for multi-language support
 3. **Memory persistence** for project context
 4. **Efficient retrieval** - only load what's needed
 
-This could dramatically improve token efficiency and code quality in CodyGody's implementation.
+Applicable to any agent framework (framegotui, custom agents, etc.) wanting to improve token efficiency and code quality.
 
 ---
 

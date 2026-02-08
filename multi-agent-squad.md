@@ -173,7 +173,7 @@ For parallel development across repos:
 ./scripts/worktree-manager.sh create-feature auth frontend backend
 ```
 
-## Key Patterns for CodyGody
+## Key Patterns
 
 1. **Specialized Agents** - Different agents for different roles (not one monolithic AI)
 2. **Orchestrator Pattern** - Central coordinator managing agent handoffs
@@ -182,6 +182,8 @@ For parallel development across repos:
 5. **Memory Persistence** - MCP Memory Server for cross-session context
 6. **Hook-based Automation** - Event-driven workflows
 7. **Natural Language Control** - No complex CLI, just talk
+
+Applicable to framegotui or any multi-agent orchestration system.
 
 ## Comparison with Other Approaches
 
