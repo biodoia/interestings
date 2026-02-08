@@ -15,3 +15,5 @@
 ## In Attesa di Analisi
 
 (nuovi URL qui)
+
+| 6 | Entelligence CLI | https://entelligence.ai/cli | ⏳ |
