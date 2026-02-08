@@ -23,3 +23,4 @@
 | 10 | Codai | https://github.com/meysamhadeli/codai | ⏳ |
 | 11 | MyCoder | https://github.com/drivecore/mycoder | ⏳ |
 | 12 | AIAssist | https://github.com/mehdihadeli/AIAssist | ⏳ |
+| 13 | gpt-engineer | https://github.com/AntonOsika/gpt-engineer | ⏳ |
