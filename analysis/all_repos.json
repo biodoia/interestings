@@ -1,0 +1,85 @@
+[
+{"description":"Develop software autonomously.","forks":218,"full_name":"ai-christianson/RA.Aid","language":"Python","license":"Apache-2.0","name":"RA.Aid","stars":2204,"topics":["agents","ai","software-engineering"],"updated":"2026-01-30T16:24:40Z","url":"https://github.com/ai-christianson/RA.Aid"}
+,
+{"description":"aider is AI pair programming in your terminal","forks":3879,"full_name":"Aider-AI/aider","language":"Python","license":"Apache-2.0","name":"aider","stars":40463,"topics":["anthropic","chatgpt","claude-3","cli","command-line","gemini","gpt-3","gpt-35-turbo","gpt-4","gpt-4o","llama","openai","sonnet"],"updated":"2026-01-19T15:39:28Z","url":"https://github.com/Aider-AI/aider"}
+,
+{"description":null,"forks":139,"full_name":"allwefantasy/auto-coder","language":"Python","license":"Apache-2.0","name":"auto-coder","stars":1212,"topics":[],"updated":"2025-06-28T02:06:29Z","url":"https://github.com/allwefantasy/auto-coder"}
+,
+{"description":"The open source coding agent.","forks":9704,"full_name":"anomalyco/opencode","language":"TypeScript","license":"MIT","name":"opencode","stars":101079,"topics":[],"updated":"2026-02-09T21:13:47Z","url":"https://github.com/anomalyco/opencode"}
+,
+{"description":"Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.","forks":5027,"full_name":"anthropics/claude-code","language":"Shell","license":null,"name":"claude-code","stars":65578,"topics":[],"updated":"2026-02-07T19:10:10Z","url":"https://github.com/anthropics/claude-code"}
+,
+{"description":"AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods","forks":886,"full_name":"badlogic/pi-mono","language":"TypeScript","license":"MIT","name":"pi-mono","stars":8581,"topics":[],"updated":"2026-02-08T23:17:34Z","url":"https://github.com/badlogic/pi-mono"}
+,
+{"description":"Production-ready multi-agent orchestration framework for Claude Code. Features specialized AI agents, automated Git workflows, and comprehensive development automation.","forks":20,"full_name":"bijutharakan/multi-agent-squad","language":"Python","license":"MIT","name":"multi-agent-squad","stars":76,"topics":[],"updated":"2025-08-03T09:56:14Z","url":"https://github.com/bijutharakan/multi-agent-squad"}
+,
+{"description":null,"forks":0,"full_name":"biodoia/framechat","language":"HTML","license":null,"name":"framechat","stars":0,"topics":[],"updated":"2026-01-31T05:18:03Z","url":"https://github.com/biodoia/framechat"}
+,
+{"description":"🔐 Secrets Manager - API keys, passwords, OAuth, SSO (ho le chiavi in veronese)","forks":0,"full_name":"biodoia/goleciave","language":"Go","license":null,"name":"goleciave","stars":0,"topics":[],"updated":"2026-02-06T14:15:34Z","url":"https://github.com/biodoia/goleciave"}
+,
+{"description":null,"forks":0,"full_name":"biodoia/interestings","language":null,"license":null,"name":"interestings","stars":0,"topics":[],"updated":"2026-02-08T17:47:55Z","url":"https://github.com/biodoia/interestings"}
+,
+{"description":"Byterover Cipher is an opensource memory layer specifically designed for coding agents. Compatible with Cursor, Codex, Claude Code, Windsurf, Cline, Claude Desktop, Gemini CLI, AWS's Kiro, VS Code, Roo Code, Trae, Amp Code and Warp through MCP. Built by https://byterover.dev/","forks":360,"full_name":"campfirein/cipher","language":"TypeScript","license":"NOASSERTION","name":"cipher","stars":3504,"topics":["agent","llm","mcp","memory","vibe-coding"],"updated":"2026-01-25T04:55:06Z","url":"https://github.com/campfirein/cipher"}
+,
+{"description":"Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.","forks":5726,"full_name":"cline/cline","language":"TypeScript","license":"Apache-2.0","name":"cline","stars":57737,"topics":[],"updated":"2026-02-09T21:29:39Z","url":"https://github.com/cline/cline"}
+,
+{"description":"Generate code from the terminal!","forks":363,"full_name":"CodebuffAI/codebuff","language":"TypeScript","license":"Apache-2.0","name":"codebuff","stars":2780,"topics":[],"updated":"2026-02-09T04:57:23Z","url":"https://github.com/CodebuffAI/codebuff"}
+,
+{"description":"⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent","forks":4145,"full_name":"continuedev/continue","language":"TypeScript","license":"Apache-2.0","name":"continue","stars":31312,"topics":["agent","ai","background-agents","claude","cli","continuous-ai","developer-tools","gemini","gpt","jetbrains","llm","open-source","qwen","vscode","workflows"],"updated":"2026-02-09T21:19:19Z","url":"https://github.com/continuedev/continue"}
+,
+{"description":"Cougar CLI - An AI programming agent for the command line","forks":49,"full_name":"dulikaifazr/Cougar-CLI","language":"TypeScript","license":"Apache-2.0","name":"Cougar-CLI","stars":1205,"topics":["agent","cli","coding"],"updated":"2026-01-02T22:41:55Z","url":"https://github.com/dulikaifazr/Cougar-CLI"}
+,
+{"description":"AI-powered CLI coding agent with 20+ built-in tools, MCP support, and multi-model providers","forks":12,"full_name":"echoVic/blade-code","language":"TypeScript","license":"MIT","name":"blade-code","stars":74,"topics":["agent","ai","cli","code","llm","mcp","nodejs","skills","terminal","tools","typescript"],"updated":"2026-02-09T12:09:19Z","url":"https://github.com/echoVic/blade-code"}
+,
+{"description":"GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. ","forks":1113,"full_name":"github/copilot-cli","language":"Shell","license":"NOASSERTION","name":"copilot-cli","stars":8170,"topics":[],"updated":"2026-02-07T19:10:27Z","url":"https://github.com/github/copilot-cli"}
+,
+{"description":"An open-source AI agent that brings the power of Gemini directly into your terminal.","forks":11095,"full_name":"google-gemini/gemini-cli","language":"TypeScript","license":"Apache-2.0","name":"gemini-cli","stars":94055,"topics":["ai","ai-agents","cli","gemini","gemini-api","mcp-client","mcp-server"],"updated":"2026-02-09T21:33:17Z","url":"https://github.com/google-gemini/gemini-cli"}
+,
+{"description":"Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.","forks":353,"full_name":"gptme/gptme","language":"Python","license":"MIT","name":"gptme","stars":4187,"topics":["agent","agents","ai-agents","ai-assistant","anthropic","chatbot","chatgpt","cli","code-generation","llamacpp","llm","llm-agent","llm-apps","openai","openrouter","rag"],"updated":"2026-02-09T04:24:30Z","url":"https://github.com/gptme/gptme"}
+,
+{"description":"A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress","forks":135,"full_name":"jarrodwatts/claude-hud","language":"JavaScript","license":"MIT","name":"claude-hud","stars":3213,"topics":["anthropic","claude","claude-code","cli","plugin","statusline","typescript"],"updated":"2026-02-08T01:39:02Z","url":"https://github.com/jarrodwatts/claude-hud"}
+,
+{"description":"Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month.","forks":1945,"full_name":"Kilo-Org/kilocode","language":"TypeScript","license":"Apache-2.0","name":"kilocode","stars":15131,"topics":["ai","ai-age","ai-coding","ai-developer-tools","chatgpt","claude","cli","gemini","jetbrains","sonnet","vscode","vscode-extension"],"updated":"2026-02-09T21:31:43Z","url":"https://github.com/Kilo-Org/kilocode"}
+,
+{"description":"Minimal CLI coding agent by Mistral","forks":286,"full_name":"mistralai/mistral-vibe","language":"Python","license":"Apache-2.0","name":"mistral-vibe","stars":3007,"topics":[],"updated":"2026-01-30T13:50:17Z","url":"https://github.com/mistralai/mistral-vibe"}
+,
+{"description":"CodeMachine is an open-source tool that orchestrates AI coding agents into repeatable, long-running workflows. ⚡️","forks":225,"full_name":"moazbuilds/CodeMachine-CLI","language":"TypeScript","license":"Apache-2.0","name":"CodeMachine-CLI","stars":2254,"topics":["ai","automation","cli","cli-tool","code-generation","developer-tools","generative-ai","multi-agent-systems","orchestration","scaffolding","workflow-automation"],"updated":"2026-02-07T22:51:54Z","url":"https://github.com/moazbuilds/CodeMachine-CLI"}
+,
+{"description":"Kimi Code CLI is your next CLI agent.","forks":583,"full_name":"MoonshotAI/kimi-cli","language":"Python","license":"Apache-2.0","name":"kimi-cli","stars":6220,"topics":[],"updated":"2026-02-09T14:50:35Z","url":"https://github.com/MoonshotAI/kimi-cli"}
+,
+{"description":"Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.","forks":564,"full_name":"opactorai/Claudable","language":"TypeScript","license":"MIT","name":"Claudable","stars":3735,"topics":["agent","claude","claude-code","codex","codingagent","free","gemini","local","lovable","qwen","web-builder"],"updated":"2025-12-04T09:11:04Z","url":"https://github.com/opactorai/Claudable"}
+,
+{"description":"Lightweight coding agent that runs in your terminal","forks":7840,"full_name":"openai/codex","language":"Rust","license":"Apache-2.0","name":"codex","stars":59705,"topics":[],"updated":"2026-02-09T21:30:41Z","url":"https://github.com/openai/codex"}
+,
+{"description":"Lightweight OpenHands CLI in a binary executable","forks":48,"full_name":"OpenHands/OpenHands-CLI","language":"Python","license":"MIT","name":"OpenHands-CLI","stars":102,"topics":[],"updated":"2026-02-09T16:08:55Z","url":"https://github.com/OpenHands/OpenHands-CLI"}
+,
+{"description":"shai is a coding agent, your pair programming buddy that lives in the terminal. Written in rust with love <3","forks":49,"full_name":"ovh/shai","language":"Rust","license":"Apache-2.0","name":"shai","stars":576,"topics":["agentic-ai","ai","cli","coding-assistant","hacktoberfest"],"updated":"2025-12-18T12:07:55Z","url":"https://github.com/ovh/shai"}
+,
+{"description":"Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents.","forks":90,"full_name":"pchalasani/claude-code-tools","language":"Python","license":"MIT","name":"claude-code-tools","stars":1400,"topics":["claude-code","cli","cli-agent","code-agent","codex","codex-cli","context","llm","tmux"],"updated":"2026-02-06T19:26:30Z","url":"https://github.com/pchalasani/claude-code-tools"}
+,
+{"description":"Open source AI coding agent. Designed for large projects and real world tasks.","forks":1081,"full_name":"plandex-ai/plandex","language":"Go","license":"MIT","name":"plandex","stars":14973,"topics":["ai","ai-agents","ai-developer-tools","ai-tools","cli","command-line","developer-tools","git","golang","gpt-4","llm","openai","polyglot-programming","terminal","terminal-based","terminal-ui"],"updated":"2025-10-03T21:49:58Z","url":"https://github.com/plandex-ai/plandex"}
+,
+{"description":"Qodo Commands Playbooks. Customize Qodo Command for your specific use case!","forks":27,"full_name":"qodo-ai/agents","language":"JavaScript","license":"MIT","name":"agents","stars":116,"topics":[],"updated":"2025-10-06T20:26:01Z","url":"https://github.com/qodo-ai/agents"}
+,
+{"description":"Increase your code coverage","forks":10,"full_name":"qodo-ai/qodo-ci","language":null,"license":null,"name":"qodo-ci","stars":23,"topics":[],"updated":"2025-03-13T23:49:53Z","url":"https://github.com/qodo-ai/qodo-ci"}
+,
+{"description":"Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞","forks":493,"full_name":"qodo-ai/qodo-cover","language":"Python","license":"AGPL-3.0","name":"qodo-cover","stars":5278,"topics":["agents","ai","test-automation","testing"],"updated":"2025-06-24T03:26:42Z","url":"https://github.com/qodo-ai/qodo-cover"}
+,
+{"description":"Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.","forks":1076,"full_name":"QwenLM/Qwen3-Coder","language":"Python","license":null,"name":"Qwen3-Coder","stars":15424,"topics":[],"updated":"2026-02-03T16:46:54Z","url":"https://github.com/QwenLM/Qwen3-Coder"}
+,
+{"description":"Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode, and Amp.","forks":407,"full_name":"smtg-ai/claude-squad","language":"Go","license":"AGPL-3.0","name":"claude-squad","stars":5955,"topics":["aider","claude-code","cli","codex","vibe-coding"],"updated":"2025-12-24T21:15:01Z","url":"https://github.com/smtg-ai/claude-squad"}
+,
+{"description":"The command center for coding agents - Run a team of Claude Code, OpenCode, Codex, or any other agents on your machine","forks":124,"full_name":"superset-sh/superset","language":"TypeScript","license":"NOASSERTION","name":"superset","stars":1437,"topics":["agentic-ai","ai-agents","claude-code","cli","codex","coding-agents","cursor-agent","desktop-app","developer-tools","electron","git-worktree","llm","mcp","opencode","orchestration","parallel-agents","terminal","tui","vibe-coding","worktrees"],"updated":"2026-02-09T21:34:16Z","url":"https://github.com/superset-sh/superset"}
+,
+{"description":"Stay in flow while building with AI","forks":6,"full_name":"team-attention/code-squad","language":"TypeScript","license":"MIT","name":"code-squad","stars":59,"topics":["ai","claude","code-review","codex","gemini","vscode-extension"],"updated":"2026-02-08T11:32:10Z","url":"https://github.com/team-attention/code-squad"}
+,
+{"description":"Zero-Config Code Flow for Claude code & Codex","forks":381,"full_name":"UfoMiao/zcf","language":"TypeScript","license":"MIT","name":"zcf","stars":5439,"topics":["agent","ai","ai-agent","bmad-method","ccr","claude","claude-4","claude-ai","claude-code","cli","gpt","gpt-5","llm","llm-code","nodejs","openai","prompt","typescript","workflow","zcf"],"updated":"2026-02-05T07:35:28Z","url":"https://github.com/UfoMiao/zcf"}
+,
+{"description":"Awesome Vibe Coding CLI","forks":2,"full_name":"vanna-ai/Awesome-Vibe-Coding-CLI","language":"HTML","license":"MIT","name":"Awesome-Vibe-Coding-CLI","stars":48,"topics":[],"updated":"2025-06-28T02:16:41Z","url":"https://github.com/vanna-ai/Awesome-Vibe-Coding-CLI"}
+,
+{"description":"VT Code - Semantic coding agent in the terminal","forks":34,"full_name":"vinhnx/VTCode","language":"Rust","license":"MIT","name":"VTCode","stars":367,"topics":["agentclientprotocol","cargo","cli","crossterm","modelcontextprotocol","ratatui","rust","terminal","tui"],"updated":"2026-02-09T14:41:01Z","url":"https://github.com/vinhnx/VTCode"}
+,
+{"description":"Best Buddy for AI Agents like Clawdbot, Claude Code. Bootstrap 1000+ command line tools in seconds.","forks":125,"full_name":"x-cmd/x-cmd","language":"Shell","license":"AGPL-3.0","name":"x-cmd","stars":3997,"topics":["agent","ai","bash","cli","cloud","shell","zsh"],"updated":"2026-02-06T13:21:00Z","url":"https://github.com/x-cmd/x-cmd"}
+,
+{"description":"Lightweight coding agent that runs in your terminal","forks":189,"full_name":"ymichael/open-codex","language":"TypeScript","license":"Apache-2.0","name":"open-codex","stars":2174,"topics":[],"updated":"2025-05-03T23:35:44Z","url":"https://github.com/ymichael/open-codex"}
+]
