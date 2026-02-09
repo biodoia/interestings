@@ -21,6 +21,8 @@
 | 15 | CompilerBrain | https://github.com/Cysharp/CompilerBrain | ✅ |
 | 16 | VibEx-CLI | https://github.com/Gymnott1/VibeEx-CLI | ✅ |
 | 17 | VibeSafe | https://github.com/slowcoder360/vibesafe | ✅ |
+| 18 | InsForge | https://github.com/InsForge/InsForge | 🆕 |
+| 19 | Cipher | https://github.com/campfirein/cipher | 🆕 |
 
 ---
 
