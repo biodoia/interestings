@@ -1,6 +1,7 @@
-# Interestings
+# GoFainder 🔍
 
 Raccolta progetti interessanti per l'ecosistema Biodoia.
+*"Go Find 'er" — trova quello che serve*
 Analisi multi-prospettiva: architettura, pattern, idee riutilizzabili.
 
 Framework di riferimento: **framegotui** (Go + Bubble Tea + ConnectRPC)
@@ -16,6 +17,7 @@ Framework di riferimento: **framegotui** (Go + Bubble Tea + ConnectRPC)
 | 5 | **Remote Code** | Mobile Claude Code |
 | 6 | **Serena MCP** | LSP-based semantic code understanding |
 | 7 | **Multi-Agent Squad** | Multi-agent orchestration framework |
+| 8 | **[AI Code Review Tools](code-review-tools.md)** | 30+ tool per AI code review (pr-agent, sweep, crev...) |
 
 ## Categorie di Analisi
 
