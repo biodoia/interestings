@@ -23,6 +23,7 @@
 | 17 | VibeSafe | https://github.com/slowcoder360/vibesafe | ✅ |
 | 18 | InsForge | https://github.com/InsForge/InsForge | 🆕 |
 | 19 | Cipher | https://github.com/campfirein/cipher | 🆕 |
+| 20 | Moltworker | https://github.com/cloudflare/moltworker | ✅ |
 
 ---
 
