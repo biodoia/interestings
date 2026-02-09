@@ -1,0 +1,88 @@
+# CODING AGENTS & CLI TOOLS
+# Scraped 2026-02-09 | 42 repos | Sorted by stars
+# Format: repo | stars | language | description
+
+# ═══════════════════════════════════════════════════════════════
+# 🏆 TOP TIER (50k+ stars)
+# ═══════════════════════════════════════════════════════════════
+
+anomalyco/opencode | 101079⭐ | TypeScript | The open source coding agent.
+google-gemini/gemini-cli | 94055⭐ | TypeScript | AI agent with Gemini in terminal
+anthropics/claude-code | 65578⭐ | Shell | Claude Code agentic coding tool
+openai/codex | 59705⭐ | Rust | Lightweight coding agent in terminal
+cline/cline | 57737⭐ | TypeScript | Autonomous coding agent in IDE
+
+# ═══════════════════════════════════════════════════════════════
+# 🥇 HIGH TIER (10k-50k stars)
+# ═══════════════════════════════════════════════════════════════
+
+Aider-AI/aider | 40463⭐ | Python | AI pair programming in terminal
+continuedev/continue | 31312⭐ | TypeScript | Continuous AI, headless CLI
+QwenLM/Qwen3-Coder | 15424⭐ | Python | Qwen3 code LLM
+Kilo-Org/kilocode | 15131⭐ | TypeScript | All-in-one agentic engineering platform
+plandex-ai/plandex | 14973⭐ | Go | AI coding agent for large projects
+
+# ═══════════════════════════════════════════════════════════════
+# 🥈 MID TIER (1k-10k stars)
+# ═══════════════════════════════════════════════════════════════
+
+badlogic/pi-mono | 8581⭐ | TypeScript | AI agent toolkit: CLI, unified LLM API
+github/copilot-cli | 8170⭐ | Shell | GitHub Copilot in terminal
+MoonshotAI/kimi-cli | 6220⭐ | Python | Kimi Code CLI agent
+smtg-ai/claude-squad | 5955⭐ | Go | Manage multiple AI terminal agents
+UfoMiao/zcf | 5439⭐ | TypeScript | Zero-Config Code Flow
+qodo-ai/qodo-cover | 5278⭐ | Python | AI test generation & coverage
+gptme/gptme | 4187⭐ | Python | Agent in terminal with local tools
+x-cmd/x-cmd | 3997⭐ | Shell | Best Buddy for AI Agents
+opactorai/Claudable | 3735⭐ | TypeScript | Web builder with local CLI agents
+campfirein/cipher | 3504⭐ | TypeScript | Memory layer for coding agents
+jarrodwatts/claude-hud | 3213⭐ | JavaScript | Claude Code plugin for visibility
+mistralai/mistral-vibe | 3007⭐ | Python | Minimal Mistral CLI agent
+CodebuffAI/codebuff | 2780⭐ | TypeScript | Generate code from terminal
+moazbuilds/CodeMachine-CLI | 2254⭐ | TypeScript | Orchestrate AI coding agents
+ai-christianson/RA.Aid | 2204⭐ | Python | Autonomous software dev
+ymichael/open-codex | 2174⭐ | TypeScript | Lightweight coding agent
+superset-sh/superset | 1437⭐ | TypeScript | Command center for coding agents
+pchalasani/claude-code-tools | 1400⭐ | Python | Tools for Claude Code, Codex
+allwefantasy/auto-coder | 1212⭐ | Python | Auto coder
+dulikaifazr/Cougar-CLI | 1205⭐ | TypeScript | AI programming agent CLI
+
+# ═══════════════════════════════════════════════════════════════
+# 🥉 EMERGING (<1k stars)
+# ═══════════════════════════════════════════════════════════════
+
+ovh/shai | 576⭐ | Rust | Pair programming buddy (Rust)
+vinhnx/VTCode | 367⭐ | Rust | Semantic coding agent
+qodo-ai/agents | 116⭐ | JavaScript | Qodo Commands Playbooks
+OpenHands/OpenHands-CLI | 102⭐ | Python | Lightweight OpenHands CLI
+bijutharakan/multi-agent-squad | 76⭐ | Python | Multi-agent orchestration
+echoVic/blade-code | 74⭐ | TypeScript | AI CLI with 20+ tools, MCP
+team-attention/code-squad | 59⭐ | TypeScript | Stay in flow with AI
+vanna-ai/Awesome-Vibe-Coding-CLI | 48⭐ | HTML | Awesome list
+qodo-ai/qodo-ci | 23⭐ | N/A | Code coverage CI
+
+# ═══════════════════════════════════════════════════════════════
+# 📊 STATS BY LANGUAGE
+# ═══════════════════════════════════════════════════════════════
+# TypeScript: 16 repos
+# Python: 12 repos
+# Shell: 3 repos
+# Go: 3 repos (plandex, claude-squad, goleciave)
+# Rust: 3 repos (codex, shai, VTCode)
+# JavaScript: 2 repos
+
+# ═══════════════════════════════════════════════════════════════
+# 🎯 CLI COMMANDS (for terminal use)
+# ═══════════════════════════════════════════════════════════════
+# opencode     - anomalyco/opencode
+# gemini       - google-gemini/gemini-cli
+# claude       - anthropics/claude-code
+# codex        - openai/codex
+# aider        - Aider-AI/aider
+# continue     - continuedev/continue
+# plandex      - plandex-ai/plandex
+# gh copilot   - github/copilot-cli
+# kimi         - MoonshotAI/kimi-cli
+# gptme        - gptme/gptme
+# mistral-vibe - mistralai/mistral-vibe
+# shai         - ovh/shai
