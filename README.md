@@ -19,6 +19,7 @@ Framework di riferimento: **framegotui** (Go + Bubble Tea + ConnectRPC)
 | 7 | **Multi-Agent Squad** | Multi-agent orchestration framework |
 | 8 | **[AI Code Review Tools](code-review-tools.md)** | 30+ tool per AI code review (pr-agent, sweep, crev...) |
 | 9 | **[Analisi Completa 21 Tool](code-review-tools-analysis.md)** | Analisi profonda con funzionalità, architettura, pattern |
+| 10 | **[Vibe Coding Tools](vibe-coding-tools.md)** | 12 tool: AIChat, Codai, MyCoder, VibeSafe, etc. |
 
 ## Categorie di Analisi
 
