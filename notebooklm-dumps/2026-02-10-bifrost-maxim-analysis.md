@@ -89,34 +89,35 @@ This is our minimal fork focused on free LLM APIs only.
 
 ## Recommendation
 
-**For production**: Use maximhq/bifrost
-- Better performance
-- Complete features
-- Active maintenance
-- Enterprise support
+**bifrost-free = PLUGIN for maximhq/bifrost**
 
-**For lightweight**: Keep bifrost-free
-- Simpler deployment
-- Fewer dependencies
-- Focus on free models only
+ bifrost-free non è un gateway separato, ma un plugin che aggiunge:
+- Free provider aggregation
+- Free-only routing
+- Cost optimization
 
-**Hybrid approach**: Use maximhq/bifrost for production routing, bifrost-free for local/free-only scenarios.
+Il gateway principale è maximhq/bifrost con tutte le sue features.
 
 ---
 
 ## Integration Path
 
-1. **Option A**: Replace bifrost-free with maximhq/bifrost
+1. **Core**: maximhq/bifrost
    - Install: `npx -y @maximhq/bifrost` or Docker
-   - Configure via web UI at localhost:8080
-   - Point clients to Bifrost gateway
+   - Features: MCP, Semantic Cache, Web UI, SSO, Vault
 
-2. **Option B**: Keep bifrost-free as lightweight option
-   - Use for local development
-   - Fallback when maximhq unavailable
-   - Focus on free provider aggregation
+2. **Plugin**: bifrost-free
+   - Aggiunge free provider support
+   - Implementato come plugin bifrost
+   - Contribuisce back alla community
 
-3. **Option C**: Use maximhq as base, extend for free providers
-   - Leverage existing infrastructure
-   - Add free provider plugins
-   - Contribute back to community
+3. **Stack finale**:
+```
+┌─────────────────────────────────────────┐
+│         maximhq/bifrost (core)          │
+│  MCP + Semantic Cache + Web UI + etc.   │
+├─────────────────────────────────────────┤
+│       bifrost-free plugin               │
+│   (free providers aggregation)          │
+└─────────────────────────────────────────┘
+```
