@@ -50,6 +50,7 @@
 | notebooklm-dumps/2026-02-11-vibe-coding-cli-italian.md | 2026-02-11 | Vibe Coding CLI ecosystem analysis (ITA) |
 | notebooklm-dumps/2026-02-11-parallel-ai-platform.md | 2026-02-11 | Parallel AI Platform documentation |
 | notebooklm-dumps/2026-02-11-top-25-cli-agents.md | 2026-02-11 | Top 25 CLI agents by GitHub stars |
+| notebooklm-dumps/2026-02-11-definitive-agentic-coding-guide.md | 2026-02-11 | Sergio's 6-layer guide to autonomous coding |
 
 ---
 
@@ -158,11 +159,128 @@
 | https://httpbin.org/ | HTTP testing |
 | https://reqres.in/ | Mock API |
 
+### Claude Skills & Agent Skills
+| URL | Description |
+|-----|-------------|
+| https://claude.com/help-center/skill-writing-guide | Claude Help Center - Creating a Skill.md |
+| https://claude.com/help-center/adding-resources | Adding Resources to Skills |
+| https://claude.com/help-center/adding-scripts | Adding Scripts to Skills |
+| https://claude.com/help-center/packaging-skill | Packaging Your Skill |
+| https://claude.com/help-center/testing-skill | Testing Your Skill |
+| https://claude.com/help-center/skill-best-practices | Best Practices |
+| https://claude.com/help-center/skill-security | Security Considerations |
+| https://agentskills.io/ | Agent Skills Official Site |
+| https://agentskills.io/specification | Specification |
+| https://agentskills.io/integrate-skills | Integrate Skills |
+| https://github.com/anthropics/skills | Example Skills on GitHub |
+| https://github.com/agentskills/agentskills | Agent Skills Repo |
+| https://github.com/agentskills/skills-ref | Skills Reference Library |
+
+### Agent Products (Logo Carousel)
+| URL | Description |
+|-----|-------------|
+| https://geminicli.com/ | Gemini CLI |
+| https://opencode.ai/ | OpenCode |
+| https://claude.ai/code | Claude Code |
+| https://block.github.io/goose/ | Goose (Block) |
+| https://roocode.com | Roo Code |
+| https://cursor.com/ | Cursor |
+| https://ampcode.com/ | Amp |
+| https://letta.com/ | Letta |
+| https://factory.ai/ | Factory (Droid) |
+| https://piebald.ai | Piebald |
+| https://trae.ai/ | TRAE |
+| https://shittycodingagent.ai/ | pi (shitty agent) |
+| https://firebender.com/ | Firebender |
+| https://commandcode.ai/ | Command Code |
+| https://qodo.ai/ | Qodo (formerly Cline) |
+
+### Free LLM APIs & Resources
+| URL | Description |
+|-----|-------------|
+| https://github.com/cheahjs/free-llm-api-resources | Free LLM API Resources (Curated) |
+| https://github.com/maximhq/bifrost | Bifrost (11µs overhead) |
+| https://getbifrost.ai | Bifrost Documentation |
+| https://notebooklm.google.com/notebook/487d2377-a19c-4ae4-9d09-315d64b0867b | Our NotebookLM |
+
+### Dev Tools & Infrastructure
+| URL | Description |
+|-----|-------------|
+| https://speedflare.io/ | SpeedFlare |
+| https://tyk.io/self-managed/ | Tyk API Gateway |
+| https://shoutcloud.io/ | ShoutCloud |
+| https://sheetdb.io/ | SheetDB |
+| https://serpstack.com/ | SerpStack |
+| https://pixeljets.com/blog/bypass-cloudflare/ | Bypass Cloudflare |
+| https://savepage.io/ | SavePage |
+| https://import.io/ | Import.io |
+| https://logs.to/ | Logs.to |
+| https://storj.dev/ | Storj (Decentralized) |
+| https://0x0.st/ | 0x0.st (File hosting) |
+| https://stellate.co/ | Stellate (GraphQL) |
+| https://zuplo.com/examples/mcp-server-graphql | Zuplo MCP Server |
+
+### AI Services & APIs
+| URL | Description |
+|-----|-------------|
+| https://developers.supportivekoala.com/ | Supportive Koala |
+| https://brainshop.ai/ | BrainShop AI |
+| https://blitapp.com/api/ | BlitApp |
+| https://apis.guru/api-doc | APIs.guru |
+| https://boredapi.com/ | BoredAPI |
+| https://base-api.io/ | Base API |
+| https://gofile.io/api | GoFile |
+| https://gyazo.com/api/docs | Gyazo |
+| https://getpantry.cloud/ | GetPantry |
+| https://heine.familiedeelstra.com/ | AI Services |
+| https://cloud.ibm.com/docs/text-to-speech | IBM Watson TTS |
+| https://firebase.google.com/docs | Firebase |
+
+### Productivity & Business
+| URL | Description |
+|-----|-------------|
+| https://documentation.onesignal.com/docs/onesignal-api | OneSignal |
+| https://postman.com/postman/postman/postman-api | Postman API |
+| https://auth0.auth0.com/ | Auth0 |
+| https://warrant.dev/ | Warrant |
+| https://mojoauth.com/ | MojoAuth |
+| https://stytch.com/ | Stytch |
+| https://clearbit.com/ | Clearbit |
+| https://domainsdb.info/ | DomainsDB |
+| https://freelancer.com/developers | Freelancer API |
+| https://orb-intelligence.com/docs/ | Orb Intelligence |
+| https://squareup.com/developers | Square |
+| https://nimblework.com/knowledge-base/swiftkanban | Nimble/SwiftKanban |
+
+### Books & Learning
+| URL | Description |
+|-----|-------------|
+| https://www.humblebundle.com/software/game-audio-collection | Game Audio Collection |
+| https://www.humblebundle.com/books/linux-for-seasoned-admins | Linux for Admins (O'Reilly) |
+
+### Code Practice & Contests
+| URL | Description |
+|-----|-------------|
+| https://codeforces.com/ | Codeforces |
+| https://hackerearth.com/practice/basic-programming/input-output | HackerEarth Practice |
+| https://ce.judge0.com/ | Judge0 |
+| https://kontests.net/api | Coding Contests API |
+
+### Development Platforms
+| URL | Description |
+|-----|-------------|
+| https://developer.mintlify.com/docs | Mintlify Docs |
+| https://free-apis.github.io/ | Free APIs Collection |
+| https://openlibrary.org/developers/api | Open Library |
+| https://penguinrandomhouse.biz/webservices/rest/ | Penguin Random House |
+| https://filestation.app/ | FileStation |
+| https://www.fleek.sh/ | Fleek |
+
 ## 📊 Stats
 
-- **Files created**: 8
-- **URLs in database**: ~200+
-- **Categories**: OpenHands, Bifrost, Free APIs, Multi-Agent, ElizaOS, Public APIs (10+ subcats), TUI, WebTUI
+- **Files created**: 14
+- **URLs in database**: ~350+
+- **Categories**: OpenHands, Bifrost, Free APIs, Multi-Agent, ElizaOS, Public APIs (15+ subcats), Claude Skills, Agent Products, Dev Tools, AI Services, Productivity
 
 ---
 
@@ -173,4 +291,4 @@
 
 ---
 
-*Last updated: 2026-02-11*
+*Last updated: 2026-02-11 - Massive URL expansion*
