@@ -114,4 +114,36 @@ Legend: ✅ = Yes, ❌ = No, 🔧 = In progress
 
 ---
 
+---
+
+## 🆕 Additional Discoveries (Go-native)
+
+### beads (Steve Yegge) - 15k ⭐
+**Git-backed graph issue tracker for AI agents**
+
+Key features:
+- Dolt-powered (version-controlled SQL with cell-level merge)
+- **Compaction**: Semantic memory decay (summarizes old tasks)
+- Graph links: relates_to, duplicates, supersedes, replies_to
+- Hash-based IDs (bd-a1b2) prevent merge conflicts
+- Agent-optimized JSON output
+
+**Relevant for:**
+- progotti (task management)
+- memogo (compaction pattern)
+- gobro (agent coordination)
+
+### plandex - 14k ⭐
+**AI coding agent for large projects**
+- Designed for multi-file changes
+- Plan → Review → Apply workflow
+- Context management
+
+### opencode - 10k ⭐
+**Terminal coding agent**
+- Built for terminal
+- Our golem is similar (GLM-powered)
+
+---
+
 *Generated via `gh` CLI research | 2026-02-11*
