@@ -129,6 +129,36 @@
 | https://www.smarty.com/docs/cloud/us-autocomplete-pro-api | Address autocomplete |
 | https://www.postman-echo.com/ | API testing |
 
+### Development (100+ APIs)
+| URL | Description|
+| **Git |
+|-----|-------------Hub/GitLab** | |
+| https://docs.github.com/en/free-pro-team@latest/rest | GitHub REST API |
+| https://docs.gitlab.com/ee/api/ | GitLab API |
+| **Cloud Providers** | |
+| https://docs.microsoft.com/en-us/rest/api/azure/devops | Azure DevOps |
+| https://docs.docker.com/docker-hub/api/latest/ | Docker Hub |
+| https://status.digitalocean.com/api | DigitalOcean |
+| **IP/DNS** | |
+| https://ipinfo.io/developers | IPinfo |
+| https://ipify.org/ | IPify |
+| https://icanhazepoch.com/ | Epoch time |
+| **Screenshots** | |
+| https://apiflash.com/ | Screenshot API |
+| https://screenshotapi.net/ | Screenshot API |
+| **QR Codes** | |
+| https://quickchart.io/ | Charts + QR |
+| https://goqr.me/api/ | QR code generator |
+| **Code Testing** | |
+| https://httpbin.org/ | HTTP testing |
+| https://reqres.in/ | Mock REST API |
+| **Search** | |
+| https://serpstack.com/ | SERP API |
+| https://proxycrawl.com/ | Web scraping |
+| **Monitoring** | |
+| https://status.digitalocean.com/api | Uptime monitoring |
+| https://healthchecks.io/docs/ | Cron monitoring |
+
 ### Books
 | URL | Description |
 |-----|-------------|

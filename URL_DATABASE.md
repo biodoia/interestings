@@ -101,6 +101,24 @@
 | https://lob.com/ | Address verification |
 | https://vatlayer.com/documentation | VAT validation |
 
+### Development (100+ APIs)
+| URL | Description |
+| **GitHub/GitLab** | |
+| https://docs.github.com/en/free-pro-team@latest/rest | GitHub REST |
+| https://docs.gitlab.com/ee/api/ | GitLab API |
+| **Cloud** | |
+| https://docs.microsoft.com/en-us/rest/api/azure/devops | Azure DevOps |
+| https://docs.docker.com/docker-hub/api/latest/ | Docker Hub |
+| **IP/DNS** | |
+| https://ipinfo.io/developers | IPinfo |
+| https://ipify.org/ | IPify |
+| **Screenshots** | |
+| https://apiflash.com/ | Screenshot API |
+| https://screenshotapi.net/ | Screenshot API |
+| **Testing** | |
+| https://httpbin.org/ | HTTP testing |
+| https://reqres.in/ | Mock API |
+
 ## 📊 Stats
 
 - **Files created**: 8
