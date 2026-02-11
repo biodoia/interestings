@@ -11,10 +11,11 @@
 | notebooklm-dumps/2026-02-10-bibbia-coding-agentico.md | 2026-02-10 | Bibbia del Coding Agentico |
 | notebooklm-dumps/2026-02-11-definitive-agentic-stack.md | 2026-02-11 | Definitive guide to agentic infrastructure |
 | notebooklm-dumps/2026-02-11-elizaos.md | 2026-02-11 | ElizaOS framework analysis |
+| notebooklm-dumps/2026-02-11-public-apis.md | 2026-02-11 | Public-APIs collection (2000+ APIs) |
 
 ---
 
-## 🔗 Key URLs (Direct Links)
+## 🔗 Key URLs by Category
 
 ### OpenHands
 | URL | Description |
@@ -40,12 +41,32 @@
 | https://github.com/microsoft/autogen | AutoGen (40-48K stars) |
 | https://github.com/langchain-ai/langgraph | LangGraph (11.7K stars) |
 
-### ElizaOS (NEW)
+### ElizaOS
 | URL | Description |
 |-----|-------------|
 | https://www.elizaos.ai/ | Main website |
 | https://eliza.how/docs/intro | Documentation |
 | https://github.com/elizaOS/eliza | GitHub repo (15.5K stars) |
+
+### Public APIs (2000+ Collection)
+| URL | Description |
+|-----|-------------|
+| https://github.com/public-apis/public-apis | Main repo |
+| **Security** | |
+| https://docs.abuseipdb.com/ | AbuseIPDB |
+| https://urlhaus-api.abuse.ch/ | Malware URLs |
+| https://www.virustotal.com/en/documentation/public-api/ | VirusTotal |
+| **Animals** | |
+| https://dog.ceo/dog-api/ | Dog API |
+| https://thedogapi.com/ | Dog API |
+| https://cataas.com/ | Cat As A Service |
+| https://randomfox.ca/floof/ | Fox images |
+| **Anime** | |
+| https://jikan.moe/ | Anime DB |
+| https://anilist.github.io/ApiV2-GraphQL-Docs/ | AniList |
+| https://waifu.im/docs | Waifu images |
+
+### Go TUI |
 
 ### Go TUI
 | URL | Description |
@@ -62,13 +83,11 @@
 | https://github.com/sorenisanerd/gotty | gotty (19.4K stars) |
 | https://github.com/webtui/webtui | WebTUI (2.2K stars) |
 
----
-
 ## 📊 Stats
 
-- **Files created**: 6 (2026-02-10 to 2026-02-11)
-- **URLs in database**: ~100+
-- **Categories**: OpenHands, Bifrost, Free APIs, Multi-Agent, TUI, WebTUI
+- **Files created**: 8 (2026-02-10 to 2026-02-11)
+- **URLs in database**: ~150+
+- **Categories**: OpenHands, Bifrost, Free APIs, Multi-Agent, ElizaOS, Public APIs, TUI, WebTUI
 
 ---
 
@@ -76,7 +95,6 @@
 
 - NotebookLM audio files (not yet transcribed)
 - WhatsApp URL logs (mentioned in TOOLS.md)
-- GitHub repo analysis (mentioned but not fully captured)
 
 ---
 
