@@ -75,7 +75,10 @@
 **Useful for agents**:
 - **Anti-Malware**: VirusTotal, URLhaus (for redteam/security validation)
 - **Art**: Icons, images (for TUI dashboards)
-- **Animals**: Fun placeholders, test data
+- **Cloud Storage**: Dropbox, Google Drive, File.io (for file operations)
+- **Continuous Integration**: CircleCI, TravisCI (for govai deployment)
+- **Blockchain**: Etherscan, The Graph (for crypto/web3)
+- **Calendar**: Google Calendar, holidays (for scheduling)
 
 **Low priority**:
 - Anime APIs (entertainment)
@@ -83,8 +86,58 @@
 
 ---
 
-## Reference
+## New Categories Added (2026-02-11)
 
-- **Main repo**: https://github.com/public-apis/public-apis
-- **Sponsor**: https://apilayer.com/
-- **Discord**: https://discord.com/invite/hgjA78638n/
+### Blockchain
+| URL | Description |
+|-----|-------------|
+| https://etherscan.io/apis | Ethereum explorer |
+| https://thegraph.com/ | Decentralized indexing |
+| https://chain.link/developer-resources | Chainlink oracles |
+| https://covalenthq.com/docs/api/ | Blockchain data |
+| https://graphql.bitquery.io/ide | GraphQL blockchain |
+
+### Books
+| URL | Description |
+|-----|-------------|
+| https://openlibrary.org/developers/api | Open Library |
+| https://developers.google.com/books/ | Google Books |
+| https://gutendex.com/ | Project Gutenberg |
+| https://bible-api.com/ | Bible API |
+| https://alquran.cloud/api | Quran API |
+
+### Business
+| URL | Description |
+|-----|-------------|
+| https://developers.google.com/gmail/api/ | Gmail |
+| https://developers.google.com/analytics/ | Google Analytics |
+| https://mailchimp.com/developer/ | Mailchimp |
+| https://developer.squareup.com/reference/square | Square |
+| https://developer.trello.com/reference/introduction | Trello |
+
+### Calendar
+| URL | Description |
+|-----|-------------|
+| https://developers.google.com/google-apps/calendar/ | Google Calendar |
+| https://www.hebcal.com/home/developer-apis | Jewish calendar |
+| https://www.gov.uk/bank-holidays.json | UK holidays |
+| https://date.nager.at/ | Nager.Date holidays |
+| https://holidayapi.com/ | Holiday API |
+
+### Cloud Storage & File Sharing
+| URL | Description |
+|-----|-------------|
+| https://www.dropbox.com/developers | Dropbox |
+| https://developers.google.com/drive/ | Google Drive |
+| https://developer.microsoft.com/onedrive | OneDrive |
+| https://docs.pinata.cloud/ | IPFS (Pinata) |
+| https://anonfiles.com/docs/api | Anonymous files |
+
+### Continuous Integration
+| URL | Description |
+|-----|-------------|
+| https://circleci.com/docs/api/v1-reference/ | CircleCI |
+| https://docs.travis-ci.com/api/ | Travis CI |
+| https://buddy.works/docs/api/getting-started/overview | Buddy |
+| https://api-docs.bitrise.io/ | Bitrise |
+| https://docs.cloudbees.com/docs/cloudbees-codeship/latest/api-overview/ | CloudBees CodeShip |

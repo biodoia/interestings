@@ -65,29 +65,31 @@
 | https://jikan.moe/ | Anime DB |
 | https://anilist.github.io/ApiV2-GraphQL-Docs/ | AniList |
 | https://waifu.im/docs | Waifu images |
-
-### Go TUI |
-
-### Go TUI
-| URL | Description |
-|-----|-------------|
-| https://github.com/charmbracelet/bubbletea | Bubbletea (39.2K stars) |
-| https://github.com/charmbracelet/lipgloss | Lipgloss (10.5K stars) |
-| https://github.com/charmbracelet/bubbles | Bubbles (7.7K stars) |
-| https://github.com/rivo/tview | tview (~11K stars) |
-
-### WebTUI
-| URL | Description |
-|-----|-------------|
-| https://github.com/xtermjs/xterm.js | xterm.js (19.5K stars) |
-| https://github.com/sorenisanerd/gotty | gotty (19.4K stars) |
-| https://github.com/webtui/webtui | WebTUI (2.2K stars) |
+| **Blockchain** | |
+| https://etherscan.io/apis | Ethereum |
+| https://thegraph.com/ | Decentralized indexing |
+| https://chain.link/developer-resources | Chainlink |
+| **Business** | |
+| https://developers.google.com/gmail/api/ | Gmail |
+| https://developer.squareup.com/reference/square | Square |
+| https://developer.trello.com/reference/introduction | Trello |
+| **Calendar** | |
+| https://developers.google.com/google-apps/calendar/ | Google Calendar |
+| https://www.gov.uk/bank-holidays.json | UK holidays |
+| https://date.nager.at/ | Holidays API |
+| **Cloud Storage** | |
+| https://www.dropbox.com/developers | Dropbox |
+| https://developers.google.com/drive/ | Google Drive |
+| https://docs.pinata.cloud/ | IPFS/Pinata |
+| **CI/CD** | |
+| https://circleci.com/docs/api/v1-reference/ | CircleCI |
+| https://docs.travis-ci.com/api/ | Travis CI |
 
 ## 📊 Stats
 
-- **Files created**: 8 (2026-02-10 to 2026-02-11)
-- **URLs in database**: ~150+
-- **Categories**: OpenHands, Bifrost, Free APIs, Multi-Agent, ElizaOS, Public APIs, TUI, WebTUI
+- **Files created**: 8
+- **URLs in database**: ~200+
+- **Categories**: OpenHands, Bifrost, Free APIs, Multi-Agent, ElizaOS, Public APIs (10+ subcats), TUI, WebTUI
 
 ---
 
