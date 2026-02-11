@@ -84,6 +84,22 @@
 | **CI/CD** | |
 | https://circleci.com/docs/api/v1-reference/ | CircleCI |
 | https://docs.travis-ci.com/api/ | Travis CI |
+| **Cryptocurrency** | |
+| https://coinmarketcap.com/api/ | CoinMarketCap |
+| https://docs.coingecko.com/api/rest-api | CoinGecko |
+| https://docs.binance.com/ | Binance |
+| https://docs.kraken.com/rest/ | Kraken |
+| https://docs.coinbase.com/ | Coinbase |
+| https://infura.io/product/ethereum | Infura |
+| https://docs.solana.com/developing/clients/jsonrpc-api | Solana |
+| https://mempool.space/api | Bitcoin mempool |
+| **Currency Exchange** | |
+| https://exchangeratesapi.io/ | Exchange Rates API |
+| https://www.frankfurter.app/docs | Frankfurter |
+| https://currencylayer.com/documentation | Currency Layer |
+| **Data Validation** | |
+| https://lob.com/ | Address verification |
+| https://vatlayer.com/documentation | VAT validation |
 
 ## 📊 Stats
 

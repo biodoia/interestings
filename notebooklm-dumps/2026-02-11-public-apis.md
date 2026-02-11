@@ -97,6 +97,38 @@
 | https://covalenthq.com/docs/api/ | Blockchain data |
 | https://graphql.bitquery.io/ide | GraphQL blockchain |
 
+### Cryptocurrency (50+ APIs)
+| URL | Description |
+|-----|-------------|
+| https://coinmarketcap.com/api/ | CoinMarketCap |
+| https://docs.coingecko.com/api/rest-api | CoinGecko |
+| https://docs.binance.com/ | Binance |
+| https://docs.kraken.com/rest/ | Kraken |
+| https://docs.coinbase.com/ | Coinbase |
+| https://infura.io/product/ethereum | Infura |
+| https://docs.solana.com/developing/clients/jsonrpc-api | Solana |
+| https://mempool.space/api | Bitcoin mempool |
+| https://block.io/docs/basic | Block.io |
+| https://docs.bitfinex.com/docs | Bitfinex |
+
+### Currency Exchange
+| URL | Description |
+|-----|-------------|
+| https://exchangeratesapi.io/ | Exchange Rates API |
+| https://www.frankfurter.app/docs | Frankfurter (ECB data) |
+| https://currencylayer.com/documentation | Currency Layer |
+| https://fixer.io/ | Fixer.io |
+| https://1forge.com/forex-data-api/api-documentation | 1Forge Forex |
+| https://currencyscoop.com/ | Currency Scoop |
+
+### Data Validation
+| URL | Description |
+|-----|-------------|
+| https://lob.com/ | Address verification |
+| https://vatlayer.com/documentation | VAT validation |
+| https://www.smarty.com/docs/cloud/us-autocomplete-pro-api | Address autocomplete |
+| https://www.postman-echo.com/ | API testing |
+
 ### Books
 | URL | Description |
 |-----|-------------|
