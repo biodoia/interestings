@@ -42,6 +42,9 @@
 | notebooklm-dumps/2026-02-11-definitive-agentic-stack.md | 2026-02-11 | Definitive guide to agentic infrastructure |
 | notebooklm-dumps/2026-02-11-elizaos.md | 2026-02-11 | ElizaOS framework analysis |
 | notebooklm-dumps/2026-02-11-public-apis.md | 2026-02-11 | Public-APIs collection (2000+ APIs) |
+| notebooklm-dumps/2026-02-11-openhands-deep-dive.md | 2026-02-11 | OpenHands deep dive (67.7K stars, 53% SWE-Bench) |
+| notebooklm-dumps/2026-02-11-grok-synthesis.md | 2026-02-11 | Grok synthesis - complete agentic guide |
+| notebooklm-dumps/2026-02-11-additional-urls.md | 2026-02-11 | Additional URLs from search + our repos |
 
 ---
 
@@ -70,6 +73,7 @@
 | https://github.com/CrewAI/CrewAI | CrewAI (42.6K stars) |
 | https://github.com/microsoft/autogen | AutoGen (40-48K stars) |
 | https://github.com/langchain-ai/langgraph | LangGraph (11.7K stars) |
+| **https://github.com/biodoia/auto-claude-go** | **Our Claude Code Go implementation!** ⭐ |
 
 ### ElizaOS
 | URL | Description |
