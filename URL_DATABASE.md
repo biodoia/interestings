@@ -46,6 +46,11 @@
 | notebooklm-dumps/2026-02-11-grok-synthesis.md | 2026-02-11 | Grok synthesis - complete agentic guide |
 | notebooklm-dumps/2026-02-11-additional-urls.md | 2026-02-11 | Additional URLs from search + our repos |
 
+## 📁 New Files (2026-02-11 Night Session)
+| notebooklm-dumps/2026-02-11-vibe-coding-cli-italian.md | 2026-02-11 | Vibe Coding CLI ecosystem analysis (ITA) |
+| notebooklm-dumps/2026-02-11-parallel-ai-platform.md | 2026-02-11 | Parallel AI Platform documentation |
+| notebooklm-dumps/2026-02-11-top-25-cli-agents.md | 2026-02-11 | Top 25 CLI agents by GitHub stars |
+
 ---
 
 ## 🔗 Key URLs by Category
