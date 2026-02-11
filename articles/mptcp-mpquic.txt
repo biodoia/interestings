@@ -1,0 +1,73 @@
+Multipath TCP and its Evolution into Multipath QUIC
+Revolutionizing Data Transmission over Internet
+ElNiak
+ElNiak
+
+Follow
+5 min read
+·
+Jan 25, 2024
+
+
+
+
+
+Free version here
+
+In an increasingly connected world, efficient data transmission is vital. Traditional Transmission Control Protocol (TCP) facilitates data communication over networks but has limitations, particularly in multi-interface environments like smartphones and dual-stack hosts. This article delves into Multipath TCP (MPTCP) and its successor, Multipath QUIC (MPQUIC), highlighting their benefits, especially in large organizations such as Cisco and Apple, and their potential for the future.
+
+MPTCP’s development was majorly contributed to by Olivier Bonaventure and his team at Université catholique de Louvain in Belgium. Their groundbreaking work laid the foundation for this innovative protocol. Following the success of MPTCP, the idea of MPQUIC was conceived and developed, with significant contributions from Quentin De Coninck, also from Université catholique de Louvain. This development represented a pivotal advancement in networking protocols, combining the strengths of MPTCP with the flexibility and performance improvements of QUIC.
+
+
+source: https://www.cisco.com/c/en/us/support/docs/ip/transmission-control-protocol-tcp/116519-technote-mptcp-00.html
+What is Multipath TCP?
+Multipath TCP (MPTCP) is an extension of the standard TCP protocol that enables the simultaneous use of multiple network paths. It splits a data stream into several subflows, allowing devices with multiple interfaces (like Wi-Fi and LTE) to use them concurrently, enhancing throughput and resilience against network failures​​​​​.
+
+​MPTCP is particularly useful in large-scale network environments, such as those managed by Cisco, where it enhances data inspection and supports a range of products including Adaptive Security Appliance (ASA), Firepower Threat Defense, and more​​.
+
+Apple’s integration of MPTCP in iOS7 significantly enhanced the performance and reliability of mobile devices by allowing them to switch between cellular and Wi-Fi networks seamlessly​.
+
+​Such implementation underlines the protocol’s significance in improving user experience in consumer electronics.
+
+The Mechanics of Multipath TCP
+Understanding how MPTCP works is key to appreciating its impact. At its core, MPTCP modifies the standard TCP by allowing a single data stream to be divided and sent over multiple paths. Here’s how it functions:
+
+Session Establishment: MPTCP begins by using TCP options to negotiate the use of multiple paths. The MP_CAPABLE option in the SYN (Synchronize) packet starts this process. If both client and server support MPTCP, they respond with the same option, establishing an MPTCP connection​​.
+Subflow Creation: MPTCP can initiate additional subflows from different interfaces or addresses. Unique keys exchanged during the initial session setup authenticate these subflows, ensuring security and integrity​​.
+Address Handling: Hosts communicate their multiple interfaces and addresses via the TCP 30 option, enabling the creation of additional subflows. These can be IPv4, IPv6, or both, demonstrating MPTCP’s flexibility​​.
+Data Segmentation and Reassembly: Data entering an MPTCP connection is segmented and distributed across various subflows. It’s then reassembled into the original data stream at the receiving end. This process is dynamic, adjusting the data distribution based on subflow performance to maximize throughput​​.
+Flow Control and Security Challenges: The diverse nature of data paths can complicate flow control and security. Devices like firewalls may strip unknown TCP options, reverting MPTCP connections back to standard TCP. This highlights the importance of MPTCP-aware network infrastructure​​.
+
+Press enter or click to view image in full size
+source: https://www.cisco.com/c/en/us/support/docs/ip/transmission-control-protocol-tcp/116519-technote-mptcp-00.html
+Utilization of MPTCP in IoT Networks
+The Internet of Things (IoT) represents a rapidly growing sector where MPTCP can have a transformative impact. IoT devices, often constrained by power and bandwidth, benefit immensely from MPTCP’s ability to aggregate multiple network paths. This aggregation not only enhances data throughput but also provides redundancy, crucial for critical IoT applications like healthcare monitoring, smart cities, and industrial automation.
+
+By utilizing multiple paths, IoT devices can maintain consistent connectivity, even in the event of a single path failure, ensuring reliability in data transmission. The adaptability of MPTCP to work with various network types (like cellular, Wi-Fi, and Ethernet) makes it particularly suited for the diverse connectivity environments in IoT ecosystems.
+
+Applications in Large Organizations
+Cisco: Cisco’s networks benefit from MPTCP’s ability to improve resource utilization and ensure smoother network operations. Cisco products like ASA and Firepower Threat Defense utilize MPTCP for enhanced security and network efficiency​​.
+Apple: Apple’s implementation of MPTCP in iOS demonstrates the protocol’s utility in enhancing mobile internet reliability and speed, setting a precedent for other mobile manufacturers​.
+Tessares: Tessares is a notable example of a company leveraging MPTCP technology. With key contributors to the MPTCP implementation in the Linux kernel at its helm, Tessares focuses on developing innovative products based on MPTCP. Their commitment to commercial applications of MPTCP underlines the protocol’s versatility and potential in various business environments.
+Red Hat: Red Hat, a leading provider of open-source solutions, has recognized the potential of MPTCP, especially in enhancing high availability for endpoints in complex network environments. Red Hat’s adoption of MPTCP demonstrates its commitment to cutting-edge network technologies, ensuring their products like Red Hat Ansible Automation Platform, OpenStack Platform, and Cloud Storage and Data Services can leverage the advanced features of MPTCP. This includes improved redundancy for network connections, enhanced performance in data centers, and optimized cloud deployments
+Multipath QUIC: The Next Step
+Building on the success of MPTCP, Multipath QUIC (MPQUIC) was developed as an extension of the QUIC protocol. QUIC, initiated by Google, merges the functionalities of HTTP/2, TLS, and TCP over UDP to reduce latency in client-server communication​​. MPQUIC allows a QUIC connection to utilize various paths (like Wi-Fi and LTE or IPv4 and IPv6) simultaneously​​.
+
+Key Features of MPQUIC
+Path Management and Reliable Data Transmission: MPQUIC manages multiple paths effectively and ensures reliable data transmission. It uses encrypted STREAM frames for data sending, which are reassembled correctly despite the path heterogeneity​​.
+Packet Scheduling and Congestion Control: It incorporates sophisticated packet scheduling and congestion control mechanisms, ensuring efficient use of network resources and avoiding issues like head-of-line blocking​​.
+Enhanced Performance: Performance evaluations show that MPQUIC outperforms MPTCP in various scenarios, particularly in environments with packet losses. It offers significant benefits in both low and high bandwidth-delay product (BDP) environments​​.
+Conclusion and Future Prospects
+Multipath TCP and Multipath QUIC represent significant advancements in network protocol design, offering improved performance, reliability, and user experience. Their adoption by industry giants like Cisco and Apple underscores their importance. As networking evolves, protocols like MPQUIC, with their enhanced performance and resilience, are poised to play a pivotal role in shaping the future of internet connectivity.
+
+References
+Wikipedia, “Multipath TCP”​
+Red Hat, “Understanding Multipath TCP”​
+DevCentral, “Multipath TCP (MPTCP)”​
+Multipath TCP — Linux Kernel Implementation​
+Technote on MPTCP (Cisco)​​.
+“Multipath QUIC: Design and Evaluation”, De Coninck, Quentin and Bonaventure, Olivier.
+https://github.com/multipath-tcp
+TCP Extensions for Multipath Operation with Multiple Addresses
+https://www.tessares.net/technology/mptcp/
+BGP for Firepower Threat Defense (BGP Multipath)

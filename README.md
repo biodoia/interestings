@@ -6,6 +6,9 @@ Analisi multi-prospettiva: architettura, pattern, idee riutilizzabili.
 
 Framework di riferimento: **framegotui** (Go + Bubble Tea + ConnectRPC)
 
+## 🔎 [Motori di Ricerca](SEARCH.md)
+Query GitHub, pattern di ricerca, script automatici per trovare nuovi tool.
+
 ## Progetti Raccolti
 
 | # | Nome | Focus |
